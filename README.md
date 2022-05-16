@@ -1,3 +1,3 @@
 # Web-Dev-Coursera
-*Learning Simple Web Dev
-*Currently doing HTML, CSS, Javascript
+1. Learning Simple Web Dev
+2. urrently doing HTML, CSS, Javascript
